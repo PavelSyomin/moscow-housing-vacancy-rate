@@ -9,5 +9,5 @@ for fn in tqdm.tqdm(pathlib.Path("data/gisgkh").glob("Сведения по ОЖ
     df = pd.read_csv(fn, sep="|", dtype=str, na_values=["нет"])
     data.append(df[cols].dropna(subset="Кадастровый номер"))
 
-pd.concat(data).to_csv("data/flats.csv", index=False)
+pd.concat(data).to_parquet("data/flats.parquet", index=False)
 
