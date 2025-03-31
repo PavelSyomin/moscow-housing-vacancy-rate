@@ -20,6 +20,7 @@ fastparquet = "^2024.11.0"
 matplotlib = "^3.10.1"
 seaborn = "^0.13.2"
 plotly = "^6.0.0"
+kaleido = "0.2.1"
 
 
 [build-system]
