@@ -5,7 +5,7 @@ import tqdm
 
 cols = ["Глобальный уникальный идентификатор дома по ФИАС", "Кадастровый номер"]
 data = []
-for fn in tqdm.tqdm(pathlib.Path("../data/gisgkh").glob("Сведения по ОЖФ*")):
+for fn in tqdm.tqdm(pathlib.Path("../data/gisgkh").glob("*.bz2")):
     df = pd.read_csv(fn, sep="|", dtype=str, na_values=["нет"])
     data.append(df[cols].dropna(subset="Кадастровый номер"))
 
