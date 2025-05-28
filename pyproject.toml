@@ -21,6 +21,8 @@ matplotlib = "^3.10.1"
 seaborn = "^0.13.2"
 plotly = "^6.0.0"
 kaleido = "0.2.1"
+lightgbm = "^4.6.0"
+pyreadstat = "^1.2.9"
 
 
 [build-system]
