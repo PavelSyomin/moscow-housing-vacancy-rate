@@ -30,19 +30,19 @@ preferred-citation:
   abstract: >-
     The research presented in the article is devoted to the formation of the methodology and analysis of the housing vacancy rate in Moscow. The study defines the working concept of “housing vacancy”, which, in the context of the study, means that a residential property is not someone's primary place of residence, regardless of the subjective assessment of vacancy by the owner of the property. The methodology is based on the use of open data from the Territorial Development Fund (TDF), the results of the Russian census, the report on the results of the state cadastral assessment of the city of Moscow for 2023, and the register of housing inventory objects. In the course of implementing the proposed methodology, the vacancy rate was estimated for 60 % of Moscow's residential housing objects. The study showed that in many districts the high vacancy rate of the housing stock can be explained by the impact of integrated territorial development projects. The results were aggregated by municipal districts and examined for spatial autocorrelation and clusters of high or low vacancy rates. A more detailed analysis showed that the highest vacancy rate is characteristic of the New Moscow districts, as well as some districts influenced by the process of integrated territorial development. The calculated indicators of local spatial autocorrelation indicate the presence of areas with high concentration of both high and low levels of housing vacancy rate, which can serve as an indirect measure of the urban environment quality. The methodology proposed by the authors has a high degree of reproducibility and general applicability, as it uses only data from open sources and has a detailed description of the software code for the calculations.
   authors:
-  - given-names: Tatiana
+  - given-names: Tatiana I.
     family-names: Baltyzhakova
     affiliation: ITMO University
     email: tibaltyzhakova@itmo.ru
     orcid: "https://orcid.org/0000-0001-9160-1167"
-  - given-names: Valeria
+  - given-names: Valeria V.
     family-names: Palich
-  - given-names: Pavel
+  - given-names: Pavel O.
     family-names: Syomin
     email: ntsp@ya.ru
     affiliation: Perm State University
     orcid: "https://orcid.org/0000-0002-4015-9206"
-  - given-names: Yulia
+  - given-names: Yulia O.
     family-names: Chutova
     email: julia.o.rodikova@gmail.com
   doi: "10.35595/2414-9179-2025-3-31-273-291"
@@ -54,4 +54,3 @@ preferred-citation:
   issue: 3
   volume: 30
   year: 2025
-
