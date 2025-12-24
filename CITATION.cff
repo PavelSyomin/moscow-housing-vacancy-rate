@@ -5,19 +5,19 @@ message: >-
   the paper rather than code
 type: software
 authors:
-  - given-names: Tatiana
+  - given-names: Tatiana I.
     family-names: Baltyzhakova
     affiliation: ITMO University
     email: tibaltyzhakova@itmo.ru
     orcid: "https://orcid.org/0000-0001-9160-1167"
-  - given-names: Valeria
+  - given-names: Valeria V.
     family-names: Palich
-  - given-names: Pavel
+  - given-names: Pavel O.
     family-names: Syomin
     email: ntsp@ya.ru
     affiliation: Perm State University
     orcid: "https://orcid.org/0000-0002-4015-9206"
-  - given-names: Yulia
+  - given-names: Yulia O.
     family-names: Chutova
     email: julia.o.rodikova@gmail.com
 repository-code: "https://github.com/PavelSyomin/moscow-housing-vacancy-rate"
